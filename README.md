@@ -9,6 +9,7 @@ Using react-router-dom 5.0.0
 3. ネストされたページ遷移
 4. ルート定義の分割
 5. URL パラメータを扱う
+6. クエリパラメータを扱う
 
 - [React Router](https://reactrouter.com/)
 
