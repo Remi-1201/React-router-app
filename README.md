@@ -11,6 +11,7 @@ Using react-router-dom 5.0.0
 5. URL パラメータを扱う
 6. クエリパラメータを扱う
 7. state を渡すページ遷移
+8. Link を使わないページ遷移
 
 - [React Router](https://reactrouter.com/)
 
