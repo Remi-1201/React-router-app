@@ -10,6 +10,7 @@ Using react-router-dom 5.0.0
 4. ルート定義の分割
 5. URL パラメータを扱う
 6. クエリパラメータを扱う
+7. state を渡すページ遷移
 
 - [React Router](https://reactrouter.com/)
 
